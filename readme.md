@@ -17,6 +17,8 @@ pixels = clip(pixels, [3, 3, 1], [1, 0, 2, 3])
 */
 ```
 
-API: `clip(arr, shape=[w, h, channels?], rect=[x, y, w, h])`
+## `clip(arr, shape=[w, h, channels?], rect=[x, y, w, h])`
+
+[![Build Status](https://travis-ci.org/dy/clip-pixels.svg?branch=master)](https://travis-ci.org/dy/clip-pixels)
 
 ## © dy
