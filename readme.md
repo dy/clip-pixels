@@ -1,8 +1,6 @@
-[![Build Status](https://travis-ci.org/dy/clip-pixels.svg?branch=master)](https://travis-ci.org/dy/clip-pixels)
+Slice rectangle from an array with pixels. [![Build Status](https://travis-ci.org/dy/clip-pixels.svg?branch=master)](https://travis-ci.org/dy/clip-pixels)
 
 ### `clip(arr, shape=[w, h?, channels=4], rect=[x, y?, w?, h?])`
-
-Slice rectangle from an array with pixels
 
 ```js
 var clip = require('clip-pixels')
