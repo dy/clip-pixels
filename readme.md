@@ -20,3 +20,5 @@ pixels = clip(pixels, [3, 3, 1], [1, 0, 2, 3])
 1, 0
 */
 ```
+
+See also [flip-pixels](https://ghub.io/flip-pixels).
