@@ -1,0 +1,27 @@
+{
+  "name": "clip-pixels",
+  "version": "1.0.1",
+  "description": "Slice rectangle from pixels array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dy/clip-pixels.git"
+  },
+  "keywords": [
+    "clip",
+    "slice",
+    "ndarray",
+    "flip-pixels",
+    "pxls",
+    "pixels"
+  ],
+  "author": "dy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dy/clip-pixels/issues"
+  },
+  "homepage": "https://github.com/dy/clip-pixels#readme"
+}
