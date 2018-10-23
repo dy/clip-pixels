@@ -1,4 +1,6 @@
-Slice rectangle from an array with pixels. [![Build Status](https://travis-ci.org/dy/clip-pixels.svg?branch=master)](https://travis-ci.org/dy/clip-pixels)
+[![Build Status](https://travis-ci.org/dy/clip-pixels.svg?branch=master)](https://travis-ci.org/dy/clip-pixels)
+
+Slice rectangle from an array with pixels.
 
 ### `clip(arr, shape=[w, h?, channels=4], rect=[x, y?, w?, h?])`
 
