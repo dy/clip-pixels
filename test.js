@@ -1,7 +1,7 @@
 'use strict'
 
-let clip = require('./')
-let a = require('assert')
+var clip = require('./')
+var a = require('assert')
 
 
 var pixels = [

@@ -1,6 +1,5 @@
 'use strict'
 
-
 module.exports = function clip (pixels, shape, rect) {
 	var stride = shape[2] || 4
 	var row = shape[0],
